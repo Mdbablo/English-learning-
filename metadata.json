@@ -1,0 +1,7 @@
+{
+  "name": "ProfX - AI English Tutor",
+  "description": "An elite AI voice agent specializing in teaching English through interactive conversation with multilingual Bengali support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
